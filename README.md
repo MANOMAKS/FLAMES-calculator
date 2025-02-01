@@ -1,4 +1,4 @@
-This is FLAMES calculating program made using python programming language. 
+This is a FLAMES calculating program made using python programming language. 
 This program is made for just entertainment purpose and not to make discomfort anyone using this program.
 Functions used:
       1. Defining functions.
